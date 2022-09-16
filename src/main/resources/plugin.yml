@@ -1,0 +1,4 @@
+name: Tutorial
+version: '${version}'
+main: marumasa.tutorial.minecraft
+api-version: 1.19
